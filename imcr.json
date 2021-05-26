@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "vehicle_latitude" : "6256546545646", 
+      "vehicle_longitude" : "6256546545647",
+      "destination_latitude" : "6256546545648",
+      "destination_longitude" : "6256546545649",
+      "vehicle_size" : "1"
+    }
+  ],
+  "profile": {
+    "name": "imcr"
+  }
+}
